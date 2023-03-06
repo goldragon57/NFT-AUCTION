@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=e:\Terra\nft_auction_next\nft_auction\target\debug\build\typenum-132f2690f3d97d67\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=e:\Terra\nft_auction_next\nft_auction\target\debug\build\typenum-132f2690f3d97d67\out\op.rs

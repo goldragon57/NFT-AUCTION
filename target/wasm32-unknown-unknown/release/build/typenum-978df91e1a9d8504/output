@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/wando/work/glassflow/nft_auction/target/wasm32-unknown-unknown/release/build/typenum-978df91e1a9d8504/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/wando/work/glassflow/nft_auction/target/wasm32-unknown-unknown/release/build/typenum-978df91e1a9d8504/out/op.rs

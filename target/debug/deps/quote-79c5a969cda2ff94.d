@@ -1,0 +1,13 @@
+e:\Terra\nft_auction_next\nft_auction\target\debug\deps\quote-79c5a969cda2ff94.rmeta: C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs
+
+e:\Terra\nft_auction_next\nft_auction\target\debug\deps\libquote-79c5a969cda2ff94.rlib: C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs
+
+e:\Terra\nft_auction_next\nft_auction\target\debug\deps\quote-79c5a969cda2ff94.d: C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs
+
+C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs:
+C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs:
+C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs:
+C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs:
+C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs:
+C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs:
+C:\Users\star\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs:
